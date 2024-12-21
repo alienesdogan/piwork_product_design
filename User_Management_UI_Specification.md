@@ -78,27 +78,9 @@ This form is displayed on the right-hand side for creating or editing user detai
 #### **Hide Disabled Users**
 - When checked, the table hides all rows where `Enabled = false`.
 - When unchecked, all users are shown again.
-
+  
 ---
+###Ali Enes DOĞAN
 
-## **Error Handling**
-1. **Invalid Input**:
-   - Highlight the invalid field(s).
-   - Display an error message near the field or at the top of the form.
 
-2. **Save Failure**:
-   - If saving the user fails (e.g., due to server issues), display a message: "Failed to save user. Please try again later."
 
-3. **Empty Table**:
-   - If no users match the filter criteria, display a message: "No users found."
-
----
-
-## **Future Enhancements**
-- Add bulk actions for enabling/disabling or deleting multiple users.
-- Add a search bar to filter users by name, email, or role.
-
----
-
-### Next Steps
-Save this `.md` file in your preferred repository (GitHub, GitLab, or BitBucket). Let me know if you need help with the upload process.
